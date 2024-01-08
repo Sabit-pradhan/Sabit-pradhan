@@ -1,3 +1,4 @@
+![logo](https://github.com/Sabit-pradhan/Sabit-pradhan/blob/main/git%20banner.gif)
 <h1 align="center">Hi 👋, I'm Sabit Kumar Pradhan</h1>
 <h3 align="center">A passionate frontend developer from  India</h3>
 <img align="right" alt="coding" width"400" src="https://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif">
